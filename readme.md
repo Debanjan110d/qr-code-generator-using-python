@@ -1,4 +1,4 @@
-````markdown
+
 # QR Code Generator using Python 🐍
 
 A versatile QR code generator written in Python. Choose between a simple **command‑line interface** (`main.py`) or a lightweight **Flask web app** (`index.py`). It generates high‑contrast, WCAG‑compliant QR codes for any text or URL.
